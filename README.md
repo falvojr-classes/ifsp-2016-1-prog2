@@ -9,7 +9,7 @@ Aprender e implementar programas de computadores (softwares) utilizando uma ling
 ## Conteúdo Programático
 
 1. [Introdução](https://docs.google.com/presentation/d/1qIWu_g0MLkWfA58HrPGIM_Lr6t3hEixc9Gl7Q2NIozc/edit?usp=sharing)
-2. Estruturas de Repetição
+2. [Estruturas de Repetição](https://docs.google.com/presentation/d/1_Ka6GPFhTMyNncmnf25PjP-KWT4bvZWQr5TOaErwRyQ/edit?usp=sharing)
 3. Estruturas de Dados
 4. Matrizes e Vetores
 5. Funções
