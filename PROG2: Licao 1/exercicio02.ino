@@ -1,4 +1,4 @@
-﻿/**
+/**
  * CÓDIGO PARA ARDUINO (extensão .ino)
  * 
  * 2. Faça um programa que leia o valor de um sensor de temperatura TM35, que

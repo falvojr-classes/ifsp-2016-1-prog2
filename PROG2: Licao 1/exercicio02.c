@@ -21,7 +21,7 @@ int main( )
     printf("Valor do sensor TM35: ");
     scanf ("%i", &sensorTM35);
 
-    temperaturaCelsius = (sensorTM35 * (CINCO_VOLTS/FATOR_CINCO_VOLTS)) / UM_GRAU_C_EM_VOLTS;
+    temperaturaCelsius = (sensorTM35 * (5000/1023)) / 10;
 
     printf("Temperatura em Celsius: %.2f", temperaturaCelsius);
 
