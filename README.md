@@ -17,4 +17,6 @@ Aprender e implementar programas de computadores (softwares) utilizando uma ling
 7. Manipulação de Arquivos
 
 
+## Trabalhos
 
+1. [T1: Trabalho Preparatório para A1](https://docs.google.com/presentation/d/1YUf2Bdj3AXD-rQXuDT4gWch1qpC0atwJXhjR1aN5lKs/edit?usp=sharing)
