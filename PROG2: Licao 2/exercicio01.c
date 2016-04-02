@@ -1,5 +1,6 @@
 /**
- * 1. Faça um programa que escreva a tabuada de um número inteiro fornecido.
+ * 1. Faça um programa que escreva a tabuada de um número
+ * inteiro fornecido.
 **/
 
 #include<stdio.h>
