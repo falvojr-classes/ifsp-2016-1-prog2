@@ -1,26 +1,41 @@
-#include<stdio.h>
+/**
+ * 3. Implementar um programa que imprima a quantidade de
+ * números pares e ímpares a partir do seguinte vetor:
+ *
+ * { 11, 12, 23, 30, 44, 51, 60 }
+**/
 
-#define CAPACIDADE 10
+#include<stdio.h>
 
 int main()
 {
-    int i, numeros[CAPACIDADE];
+    int i, pares, impares;
+    int numeros[7] = { 11, 12, 23, 30, 44, 51, 60 };
 
-    printf("Digite %d numeros inteiros!\n\n", CAPACIDADE);
+    pares = 0;
+    impares = 0;
 
-    for(i = 0; i < CAPACIDADE; i++)
+    for(i = 0; i < 7; i++)
     {
-        printf("Digite o %dº numero: ", i + 1);
-        scanf("%d", &numeros[i]);
+        int valor = numeros[i];
+        if(valor%2 == 0) {
+            pares++;
+        } else {
+            impares++;
+        }
     }
-
-    printf("\nRESULTADO = {  ");
-    for(i = CAPACIDADE - 1; i >= 0 ; i--)
-    {
-        printf("%d  ", numeros[i]);
-    }
-    printf("}\n");
+    printf("%d pares e %d impares", pares, impares);
 
     getchar();
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
