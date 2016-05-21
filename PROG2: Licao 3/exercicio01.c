@@ -1,3 +1,10 @@
+/**
+ * 1. Implementar um programa que imprima a soma do seguinte vetor:
+ *
+ * { 1.35, 5.00, 9.65, 6.10, 3.33, 8.75 }
+ *
+**/
+
 #include<stdio.h>
 
 #define CAPACIDADE 10
