@@ -17,3 +17,4 @@ Aprender e implementar programas de computadores (softwares) utilizando uma ling
 ## Trabalhos
 
 1. [T1: Trabalho Preparatório para A1](https://docs.google.com/presentation/d/1YUf2Bdj3AXD-rQXuDT4gWch1qpC0atwJXhjR1aN5lKs/edit?usp=sharing)
+2. [T2: Trabalho Preparatório para A2](https://docs.google.com/presentation/d/1a95c0XCSubHv5C5-SNNodVrjJVPVIOt1phqwsGINCE8/edit?usp=sharing)
