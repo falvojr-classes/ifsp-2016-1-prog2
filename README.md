@@ -11,10 +11,10 @@ Aprender e implementar programas de computadores (softwares) utilizando uma ling
 1. [Introdução](https://docs.google.com/presentation/d/1qIWu_g0MLkWfA58HrPGIM_Lr6t3hEixc9Gl7Q2NIozc/edit?usp=sharing)
 2. [Estruturas de Repetição](https://docs.google.com/presentation/d/1_Ka6GPFhTMyNncmnf25PjP-KWT4bvZWQr5TOaErwRyQ/edit?usp=sharing)
 3. [Vetores e Matrizes](https://docs.google.com/presentation/d/1qC8zWS_tLqYDVkiJXHsa0D6qEAZulv91xmnpqh9sAJU/edit?usp=sharing)
-4. Funções e Ponteiros
-5. Manipulação de Arquivos
+4. Manipulação de Arquivos
 
 
 ## Trabalhos
 
 1. [T1: Trabalho Preparatório para A1](https://docs.google.com/presentation/d/1YUf2Bdj3AXD-rQXuDT4gWch1qpC0atwJXhjR1aN5lKs/edit?usp=sharing)
+2. [T2: Trabalho Preparatório para A2](https://docs.google.com/presentation/d/1a95c0XCSubHv5C5-SNNodVrjJVPVIOt1phqwsGINCE8/edit?usp=sharing)
