@@ -11,8 +11,9 @@ Aprender e implementar programas de computadores (softwares) utilizando uma ling
 1. [Introdução](https://docs.google.com/presentation/d/1qIWu_g0MLkWfA58HrPGIM_Lr6t3hEixc9Gl7Q2NIozc/edit?usp=sharing)
 2. [Estruturas de Repetição](https://docs.google.com/presentation/d/1_Ka6GPFhTMyNncmnf25PjP-KWT4bvZWQr5TOaErwRyQ/edit?usp=sharing)
 3. [Vetores e Matrizes](https://docs.google.com/presentation/d/1qC8zWS_tLqYDVkiJXHsa0D6qEAZulv91xmnpqh9sAJU/edit?usp=sharing)
-4. Manipulação de Arquivos
+4. Manipulação de Arquivos¹
 
+¹ Tópico não abordado.
 
 ## Trabalhos
 
